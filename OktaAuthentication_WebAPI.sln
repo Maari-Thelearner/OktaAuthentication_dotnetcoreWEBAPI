@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaAuthentication_WebAPI", "OktaAuthentication_WebAPI\OktaAuthentication_WebAPI.csproj", "{F2BF430A-1BBB-4879-8B9C-38DD481E99EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BF430A-1BBB-4879-8B9C-38DD481E99EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BF430A-1BBB-4879-8B9C-38DD481E99EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BF430A-1BBB-4879-8B9C-38DD481E99EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BF430A-1BBB-4879-8B9C-38DD481E99EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
